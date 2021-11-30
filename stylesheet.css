@@ -1,4 +1,12 @@
+@font-face {
+    font-family: KGNextToMe;
+    src: url(resources/KgNextToMeSolid-82Az.ttf);
+}
+
 p{
-    font-size: 14;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: KGNextToMe;
+}
+
+h1{
+    font-family: KGNextToMe;
 }
