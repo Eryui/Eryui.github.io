@@ -3,10 +3,12 @@
     src: url(thetings/KgNextToMeSolid-82Az.ttf);
 }
 
-p{
+#a{
     font-family: KGNextToMe;
+    color: white;
+    text-align: center;
 }
 
-h1{
-    font-family: KGNextToMe;
+body{
+    background-color: #000F1D;
 }
