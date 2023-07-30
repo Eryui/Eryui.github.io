@@ -3,6 +3,11 @@
     src: url(thetings/KgNextToMeSolid-82Az.ttf);
 }
 
+@font-face {
+    font-family: KGNextToMeSketched;
+    src: url(thetings/KgNextToMeSketched-BOA5.ttf);
+}
+
 #a{
     padding-top: 300px;
     padding-bottom: 300px;
@@ -21,7 +26,7 @@ body{
     background-color: #000F1D;
 }
 
-li{
+#navbar{
     list-style-type: none;
     margin:0;
     padding:5px;
